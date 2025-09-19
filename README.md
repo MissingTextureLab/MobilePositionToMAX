@@ -34,6 +34,7 @@ La idea es:
 - Ampliar el uso de sensores del móvil para transformarlo en un **instrumento musical interactivo**.  
 - Integrar esta aproximación en contextos de **performance, educación musical e instalaciones interactivas**.
 
+![Aplicación](https://i.pinimg.com/736x/a7/22/ac/a722ac93ac816ed36121095021e66c7e.jpg)
 ---
 
 > Este repositorio no está pensado como recurso útil, sino como parte de mi porfolio académico y creativo.
